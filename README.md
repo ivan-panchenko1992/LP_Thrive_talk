@@ -19,5 +19,5 @@
 4. Run `npm start`.
 
 ## Demo
-  [DEMO LINK](https://ivan-panchenko1992.github.io/Thrive_talk/).
+  [DEMO LINK](https://ivan-panchenko1992.github.io/LP_Thrive_talk/).
 
